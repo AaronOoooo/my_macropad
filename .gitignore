@@ -1,0 +1,15 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore Python bytecode and configuration files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore specific files
+lib64
+pyvenv.cfg
+bin/
+include/
+lib/
+
